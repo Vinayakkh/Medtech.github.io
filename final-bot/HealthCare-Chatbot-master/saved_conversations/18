@@ -1,0 +1,15 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : hello
+user : hello
+bot : Hi there!
+user : hiii
+bot : The current time is 01:22 PM
+user : time
+bot : The current time is 01:22 PM
+user : ok
+bot : The current time is 01:22 PM
+user : can you diagnosis
+bot : I can help you with medical information.
+user : diagnosis
+bot : - okay. can you tell me what's wrong? what are your symptoms?
